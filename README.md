@@ -17,7 +17,7 @@ Below are steps taken directly from the TwitchDownloader github repository for t
 cd C:\folder\containing\TwitchDownloaderCLI
 ```
 4. If you do not have FFmpeg, you can install it via [Chocolatey package manager](https://community.chocolatey.org/), or you can get it as a standalone file from [ffmpeg.org](https://ffmpeg.org/download.html) or by using TwitchDownloaderCLI:
-> Note: Python's subprocess does not play nicely with FFmpeg depending on its installation location.  Due to this, TwitchDownloader CLI and FFmpeg should be inside the same folder.  The easiest way to do this is simply run the command below.
+> Note: Python's subprocess module does not play nicely with FFmpeg depending on its installation location.  Due to this, TwitchDownloader CLI and FFmpeg should be inside the same folder.  The easiest way to do this is simply run the command below.
 ```bash
 TwitchDownloaderCLI.exe ffmpeg --download
 ```
