@@ -96,10 +96,10 @@ def main():
     print('Select the directory where TwitchDownloaderCLI and FFmpeg are downloaded.')
     client_dir = prompter.dir() + '\\'
     print(client_dir)
-    print('Select desired directory to save clips: ')
+    print('Select desired directory to save clips.')
     output_path = prompter.dir() + '\\'
     print(output_path)
-    print('Select desired directory to save chat: ')
+    print('Select desired directory to save chat.')
     json_path = prompter.dir() + '\\'
     print(json_path)
 
