@@ -61,14 +61,17 @@ pip install requirements.txt
 
 ## Usage
 
-1. Run the program.
+1. Prepare a text file of Twitch clip links each on its own line.
+> Note: There are 2 different types of twitch links depending on where you've gotten them being ```clips.twitch.tv/``` and ```www.twitch.tv/.../clips/```.  The program is set to use the former by default.  I would recommened a site like [clipsgamelab](https://clipsgamelab.github.io/#/) for getting links of that type and access to better sorting tools.
+
+2. Run the program.
 ```bash
 python TD-Automator.py
 ```
 
-2. Select appropriate directories for each prompt.
+3. Select appropriate file/directories for each prompt.
 
-3. Enter your **Client ID** and **access token** you obtained earlier.
+4. Enter your **Client ID** and **access token** you obtained earlier.
 
 ## Contributing
 
