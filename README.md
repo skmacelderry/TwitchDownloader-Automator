@@ -22,7 +22,7 @@ cd C:\folder\containing\TwitchDownloaderCLI
 TwitchDownloaderCLI.exe ffmpeg --download
 ```
 
-5.You can now start using TwitchDownloaderCLI, for example:
+5. You can now start using TwitchDownloaderCLI, for example:
 ```bash
 TwitchDownloaderCLI.exe videodownload --id <vod-id-here> -o out.mp4
 ```
