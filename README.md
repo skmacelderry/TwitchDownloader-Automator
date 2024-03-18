@@ -72,4 +72,4 @@ python TD-Automator.py
 
 ## Contributing
 
-Message hylight on discord for inquires.
+Send an email to skmacelderry@gmail.com or message hylight on discord for inquires.
