@@ -1,6 +1,6 @@
 # TwitchDownloader Automator
 
-TD Automator is an extension for the TwitchDownloader CLI that creates a streamlined experience for downloading/rendering clips & chat with minimal input written in Python.  The program adds the functionality of combined automation for all steps of the process and prevents the undesired effect of chat videos starting empty when using a clip link to download.  Commands present in the program have been tailored to Windows systems, but could be altered to run in different environments.
+TD Automator is an extension for the TwitchDownloader CLI that creates a streamlined experience for downloading/rendering clips & chat with minimal input.  The program adds the functionality of combined automation for all steps of the process and prevents the undesired effect of chat videos starting empty when using a clip link to download.  Commands present in the program have been tailored to Windows systems, but could be altered to run in different environments.
 
 ## Installation
 
