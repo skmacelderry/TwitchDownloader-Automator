@@ -105,8 +105,6 @@ def main():
 
     client_id = input('Enter your Twitch Developer App client ID: ')
     auth = input('Enter your Twitch Developer App client token: ')
-    auth = 'bdo3lcxr8lgvwpj2yp1jmc1rmbxqet'
-    client_id = 'afjotvcdonn5bue5s0a9d7wb022dld'
 
     url = ''
     params = {}
