@@ -256,6 +256,5 @@ def main():
 
     print('\nTotal runtime: ', seconds_to_duration(tt_e - tt_s), 'seconds', '\n\nExiting program...\n')
 
-
 if __name__ == '__main__':
     main()
